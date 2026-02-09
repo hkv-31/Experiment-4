@@ -3,6 +3,7 @@ import add as a
 import subtract as s
 import multiply as m
 
+#Calling add, subtract and multiply function
 print("Addition= ", a.add(5, 6))
 print("Subtraction = ", s.subtract(7, 3))
 print("Multiplication = ", m.multiply(12, 24))
